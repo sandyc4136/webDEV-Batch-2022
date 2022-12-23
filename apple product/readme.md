@@ -18,3 +18,4 @@ Resources to practise:
 https://www.freecodecamp.org/learn/
 https://www.codecademy.com/catalog/subject/web-development
 https://bigfrontend.dev/
+
